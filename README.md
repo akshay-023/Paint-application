@@ -4,7 +4,7 @@ Overview
 
 The Paint App is a React drawing application that's simple yet packed full of features. Users can draw freehand shapes, customize brushes and export creations to images. For practicing the digital art or playing around with what you can possible do creatively, this App is just great.
 ________________________________________
-##Features
+## Features
 
 Customizable Brush Settings
 
@@ -34,12 +34,12 @@ Keyboard Shortcuts
   
   •	Ctrl+S: Save the canvas.
 
-##Screenshots/GIFs 
+## Screenshots/GIFs 
 
  ![Screenshot 2024-12-05 135256](https://github.com/user-attachments/assets/2fb1c7ac-eaeb-4118-8ae0-1cf2ee090040)
  ![Screenshot 2024-12-05 135856](https://github.com/user-attachments/assets/7e4d6758-c588-4c64-8ce1-8ecb6ac6472a)
 _______________________________________
-##Setup/Installation
+## Setup/Installation
 
 Prerequisites
 
@@ -47,7 +47,7 @@ Prerequisites
 
 •	Those include a text editor (say VSCode) and git installed on your environment.
 
-#Steps
+## Steps
 
 1.	Clone the Repository:
    
@@ -65,7 +65,7 @@ npm start
 
 Open your browser and visit http://localhost:3000 to view the app.
 ________________________________________
-##Challenges and Solutions
+## Challenges and Solutions
 
 1. Missing Dependency Warnings
  
@@ -85,7 +85,7 @@ ________________________________________
 
 •	Solution: Used React state to store canvas dimensions and adjusted the canvas size dynamically.
 ________________________________________
-##Future Enhancements
+## Future Enhancements
 
 •	Add advanced shape tools (e.g., rectangles, circles, polygons).
 
@@ -95,7 +95,7 @@ ________________________________________
 
 •	Integrate animations or GIF creation from drawings.
 ________________________________________
-##License
+## License
 
 This project is licensed under the MIT License. See the LICENSE file for details.
 
