@@ -6,7 +6,7 @@ The Paint App is a React drawing application that's simple yet packed full of fe
 ________________________________________
 ## Features
 
-Customizable Brush Settings
+### Customizable Brush Settings
 
   •	Select a color from the Color Picker as your brush color.
   
@@ -14,19 +14,19 @@ Customizable Brush Settings
   
   •	Control brush opacity to create transparent effects.
   
-Undo/Redo Functionality
+### Undo/Redo Functionality
 
   •	Undo or redo your last actions.
   
-Save Canvas
+### Save Canvas
 
   •	One-click publishing of PNG image of your drawing.
   
-Customizable Canvas Size
+### Customizable Canvas Size
 
   •	Responsive canvas dimensions.
   
-Keyboard Shortcuts
+### Keyboard Shortcuts
 
   •	Ctrl+Z: Undo.
   
